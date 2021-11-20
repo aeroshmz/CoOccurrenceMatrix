@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<opencv_storage>
+<data type_id="opencv-matrix">
+  <rows>4</rows>
+  <cols>4</cols>
+  <dt>u</dt>
+  <data>
+    0 0 1 1 0 0 1 1 0 2 2 2 2 2 3 3</data></data>
+</opencv_storage>
